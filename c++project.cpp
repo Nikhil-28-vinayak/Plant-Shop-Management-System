@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream.h>
 #include <string.h>
 #include <fstream>
 using namespace std;
