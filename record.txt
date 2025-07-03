@@ -1,0 +1,5 @@
+Customer name: nikhil
+Product name: Apple
+Quantity: 34
+Mode of payment: Cash
+
